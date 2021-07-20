@@ -6,8 +6,6 @@ This is a port for imchipwood's Dumbpad in it's v1.1 configuration with 16 switc
 
 Because it probably won't work. ┑(￣Д ￣)┍
 
----
-
 ## Features
 
 - 4 total layers which are completely remappable in Vial.
