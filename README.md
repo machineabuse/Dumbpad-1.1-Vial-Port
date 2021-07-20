@@ -1,6 +1,6 @@
 # Dumbpad 1.1 Vial Port (Non-remappable encoder)
 
-This is my port for [imchipwood's Dumbpad](https://github.com/imchipwood/dumbpad) in it's v1.1 configuration with 16 switches and a single rotary encoder unit or 17 switches. Flash at your own risk!
+This is my Vial port for [imchipwood's Dumbpad](https://github.com/imchipwood/dumbpad) in it's v1.1 configuration with 16 switches and a single rotary encoder unit or 17 switches. Flash at your own risk!
 
 *DO NOT FLASH THIS ON ANY OTHER DUMBPAD VERSION OR CONFIGURATION*
 
