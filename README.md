@@ -22,3 +22,7 @@ Because it probably won't work. ┑(￣Д ￣)┍
 3. Reset into Bootloader again -> Flash the file
 4. Grab [Vial](https://get.vial.today)
 5. Enjoy!
+
+## Note on VIA
+
+If you would like to use [VIA](https://caniusevia.com) to program your Dumbpad, you can also go ahead and grab the `.json` file and sideload that in VIA by going to File -> Import Keymap. It does work with this firmware however unless you deactivate the Secure Unlock Combination in Vial first the Test Matrix will not function. Everything else should work however.
