@@ -1,6 +1,6 @@
 # Dumbpad 1.1 Vial Port (Non-remappable encoder)
 
-This is a port for imchipwood's Dumbpad in it's v1.1 configuration with 16 switches and a single rotary encoder unit or 17 switches. Flash at your own risk!
+This is my port for [imchipwood's Dumbpad](https://github.com/imchipwood/dumbpad) in it's v1.1 configuration with 16 switches and a single rotary encoder unit or 17 switches. Flash at your own risk!
 
 *DO NOT FLASH THIS ON ANY OTHER DUMBPAD VERSION OR CONFIGURATION*
 
@@ -20,5 +20,5 @@ Because it probably won't work. ┑(￣Д ￣)┍
 1. Use QMK Toolbox -> Select the `.hex` and nothing else.
 2. Reset into Bootloader -> Clear EEPROM
 3. Reset into Bootloader again -> Flash the file
-4. Grab Vial from https://get.vial.today
+4. Grab [Vial](https://get.vial.today)
 5. Enjoy!
