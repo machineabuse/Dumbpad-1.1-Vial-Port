@@ -35,4 +35,6 @@ If you would like to use [VIA](https://caniusevia.com) to program your Dumbpad, 
 
 - Conversely, if you use the VIA firmware in Vial, you will have to sideload the `.json` before Vial will be able to see the pad.
 
+- Using the VIA firmware should have better Test Matrix behaviour (i.e. should not trigger OS events while in use).
+
 Let me know if you find any bugs, enjoy!
