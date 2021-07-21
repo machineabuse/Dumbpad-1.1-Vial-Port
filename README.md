@@ -17,7 +17,7 @@ Because it probably won't work. ┑(￣Д ￣)┍
 - The QMK Settings, Tap Dance and Combo options have been turned off to economise on EEPROM.
 - Vial's Secure Unlock Combination has been implemented to unlock access to the Test Matrix. (If you use the VIA firmware you don't need to worry about this.)
 
-## How to use this file
+## How to flash the Vial Firmware
 
 1. Use QMK Toolbox -> Select the `.hex` and nothing else.
 2. Reset into Bootloader -> Clear EEPROM
