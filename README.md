@@ -34,3 +34,5 @@ If you would like to use [VIA](https://caniusevia.com) to program your Dumbpad, 
 - Using the Vial firmware in VIA does work with this firmware however unless you deactivate the Secure Unlock Combination in Vial first the Test Matrix will not function. Everything else should work however.
 
 - Conversely, if you use the VIA firmware in Vial, you will have to sideload the `.json` before Vial will be able to see the pad.
+
+Let me know if you find any bugs, enjoy!
