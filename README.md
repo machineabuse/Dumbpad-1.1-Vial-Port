@@ -1,3 +1,5 @@
+![Vial Screenshot-80](https://user-images.githubusercontent.com/8606354/126425452-03ff1eed-75b0-48ec-9c34-a8349c60ffed.jpg)
+
 # Dumbpad 1.1 Vial Port (Non-remappable encoder)
 
 This is my Vial port for [imchipwood's Dumbpad](https://github.com/imchipwood/dumbpad) in it's v1.1 configuration with 16 switches + rotary encoder unit or 17 switches. Flash at your own risk!
@@ -24,5 +26,7 @@ Because it probably won't work. ┑(￣Д ￣)┍
 5. Enjoy!
 
 ## Note on VIA
+
+![VIA Screenshot-80](https://user-images.githubusercontent.com/8606354/126425445-1dac55cd-7166-4c1b-8c38-539170475fb7.jpg)
 
 If you would like to use [VIA](https://caniusevia.com) to program your Dumbpad, you can also go ahead and grab the `.json` file and sideload that in VIA by going to File -> Import Keymap. It does work with this firmware however unless you deactivate the Secure Unlock Combination in Vial first the Test Matrix will not function. Everything else should work however.
