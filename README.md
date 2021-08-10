@@ -1,4 +1,4 @@
-# Dumbpad 1.1 Vial Port (Non-remappable encoder)
+# Dumbpad 1.1 Vial Port
 
 ![Vial Screenshot-80](https://user-images.githubusercontent.com/8606354/128873846-2f08e312-9e70-4c00-845c-827792c1f55e.jpg)
 
