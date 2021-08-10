@@ -27,6 +27,7 @@
 #define ENCODERS_PAD_A { B2 }
 #define ENCODERS_PAD_B { D4 }
 // #define ENCODER_DIRECTION_FLIP
+#define VIAL_ENCODER_DEFAULT { KC_VOLD, KC_VOLU, KC_TRNS, KC_TRNS, KC_LEFT, KC_RGHT, KC_DOWN, KC_UP }
 
 /* Onboard LEDs  */
 #define LED_00 B6
