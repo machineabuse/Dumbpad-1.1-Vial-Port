@@ -36,3 +36,8 @@ If you would like to use [VIA](https://caniusevia.com) to program your Dumbpad, 
 - Rotary Encoder functions are fixed in the VIA Firmware; axis on Layer 0 is set to `Volume Up` and `Volume Down` and on every other layer `Right Arrow` and `Left Arrow`.
 
 Let me know if you find any bugs, enjoy!
+
+## Thanks to:-
+
+- elmo
+- xyz
