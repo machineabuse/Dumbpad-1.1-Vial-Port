@@ -39,5 +39,8 @@ Let me know if you find any bugs, enjoy!
 
 ## Thanks to:-
 
+- kerk (who started this whole hecking thing rolling)
+- imchipwood
+- mechmerlin (For his treasure trove of VIA porting videos)
 - elmo
 - xyz
